@@ -7,6 +7,10 @@ yarn run dev
 
 # Send email with nodemailer
 ```
+https://www.npmjs.com/package/nodemailer
+```
+
+```
 const nodemailer = require("nodemailer");
 
 const HOST = 'smtp.gmail.com';
