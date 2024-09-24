@@ -1,9 +1,9 @@
 const nodemailer = require("nodemailer");
 
 const HOST = 'smtp.gmail.com';
-const NO_REPLY_EMAIL = 'cuongnguyen71195@gmail.com';
-const USER = 'cuongnguyen71195@gmail.com'
-const PASSWORD = 'vdhz fgkl ibuy dcpe';
+const NO_REPLY_EMAIL = 'nguyenvanhuan243@gmail.com';
+const USER = 'nguyenvanhuan243@gmail.com'
+const PASSWORD = 'passssssss';
 const PORT = 465;
 
 const sendEmail = async (data) => {
